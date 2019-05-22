@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'geometria-light';
+    src: url('geometria-light-webfont.woff2') format('woff2'),
+         url('geometria-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_6771">Text with this font applied</p> */
+.fontsforweb_fontid_6771 {
+	font-family: 'geometria-light' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
